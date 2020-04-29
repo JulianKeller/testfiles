@@ -1,0 +1,2 @@
+this is a hidden file > .hidden.txt
+echo this is a hidden file
